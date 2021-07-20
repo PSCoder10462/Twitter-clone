@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "twitter-clone-14e72"
+  },
+  "targets": {
+    "twitter-clone-14e72": {
+      "hosting": {
+        "ps-twitter": [
+          "twitter-clone-14e72"
+        ],
+        "twitter-clone-14e72": [
+          "ps-twitter"
+        ]
+      }
+    }
+  }
+}
